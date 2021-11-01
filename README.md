@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ElRobotX94
+- 👀 I’m interested in ... Programing & Games
+- 🌱 I’m currently learning ... Python
+- 📫 How to reach me ... IvanIsaac8@Hotmail.com / IvanIsaacEM@Gmail.com
+
+<!---
+ElRobotX94/ElRobotX94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
