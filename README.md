@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElRobotX94
-- 👀 I’m interested in programing & games
+- 👀 I’m interested in programming & games
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: IvanIsaac8@Hotmail.com / IvanIsaacEM@Gmail.com
 
