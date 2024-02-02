@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElRobotX94
-- 👀 I’m interested in programming & games
+- 👀 I’m interested in programming & video games
 - 🌱 I’m currently learning C++ & Python
 - 📫 How to reach me: Robot94 *(Discord)*
 
