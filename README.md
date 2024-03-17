@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ElRobotX94
-- 👀 I’m interested in programming & video games
-- 🌱 I’m currently learning C++ & Python
 
 <!---
 ElRobotX94/ElRobotX94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
